@@ -1,0 +1,52 @@
+page-login {
+
+.login-content{
+align-items: center;
+background-image: url('http://3.bp.blogspot.com/-UCtvUooNAis/TdOoJXSIEPI/AAAAAAAAAMk/yVvwf92aJUM/s1600/bck_wood_floor.jpg');
+
+
+
+ion-row{
+align-items: center;
+text-align: center;
+
+
+}
+
+.logo-imagen{
+padding: 60px 0px 0px 0px;
+width: 18em;
+align-items: center;
+margin: auto; /*para centrar la imagen*/
+}
+
+ion-item{
+background: transparent;
+}
+
+
+/*BOTONES
+*/
+
+.submit-btn {
+        margin-top: 30px;
+       background: transparent;
+       border-radius: 30px !important;
+       border: 1px solid #ffffff;
+       color: white;
+       font-family: 'Baloo Bhaina';
+     }
+
+.register-btn{
+    margin: 3px;
+    background: transparent;
+    color: white;
+    font-family: 'Baloo Bhaina';
+}
+
+
+/*ETIQUETAS*/
+
+
+}
+}
